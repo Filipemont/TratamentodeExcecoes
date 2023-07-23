@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\bin\Debug\net7.0\HotelReservation.exe
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\bin\Debug\net7.0\HotelReservation.deps.json
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\bin\Debug\net7.0\HotelReservation.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\bin\Debug\net7.0\HotelReservation.dll
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\bin\Debug\net7.0\HotelReservation.pdb
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\obj\Debug\net7.0\HotelReservation.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\obj\Debug\net7.0\HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\obj\Debug\net7.0\HotelReservation.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\obj\Debug\net7.0\HotelReservation.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\obj\Debug\net7.0\HotelReservation.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\obj\Debug\net7.0\HotelReservation.dll
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\obj\Debug\net7.0\refint\HotelReservation.dll
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\obj\Debug\net7.0\HotelReservation.pdb
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\obj\Debug\net7.0\HotelReservation.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\HotelReservation\HotelReservation\obj\Debug\net7.0\ref\HotelReservation.dll

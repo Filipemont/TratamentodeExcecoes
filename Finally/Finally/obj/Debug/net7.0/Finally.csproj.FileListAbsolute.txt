@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\bin\Debug\net7.0\Finally.exe
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\bin\Debug\net7.0\Finally.deps.json
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\bin\Debug\net7.0\Finally.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\bin\Debug\net7.0\Finally.dll
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\bin\Debug\net7.0\Finally.pdb
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\obj\Debug\net7.0\Finally.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\obj\Debug\net7.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\obj\Debug\net7.0\Finally.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\obj\Debug\net7.0\Finally.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\obj\Debug\net7.0\Finally.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\obj\Debug\net7.0\Finally.dll
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\obj\Debug\net7.0\refint\Finally.dll
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\obj\Debug\net7.0\Finally.pdb
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\obj\Debug\net7.0\Finally.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\Finally\Finally\obj\Debug\net7.0\ref\Finally.dll

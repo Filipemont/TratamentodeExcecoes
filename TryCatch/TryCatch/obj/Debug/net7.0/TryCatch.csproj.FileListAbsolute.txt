@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.exe
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.deps.json
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.dll
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.pdb
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.dll
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\obj\Debug\net7.0\refint\TryCatch.dll
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.pdb
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\TryCatch\TryCatch\obj\Debug\net7.0\ref\TryCatch.dll
