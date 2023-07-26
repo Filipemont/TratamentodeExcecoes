@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.exe
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.deps.json
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.dll
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.pdb
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.dll
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\obj\Debug\net7.0\refint\BankAccount.dll
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.pdb
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\TratamentodeExcecoes\BankAccount\BankAccount\obj\Debug\net7.0\ref\BankAccount.dll
